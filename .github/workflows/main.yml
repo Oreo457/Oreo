@@ -19,7 +19,7 @@ jobs:
         app-name: ‘CMST’385-karevalo1
         slot-name: 'production'
         
-publish-profile: ${{ secrets.AppServiceCMST385 }}
+publish-profile: ${{ secrets.AppServiceCMST385 }} 
 -name: Run a one-line script
 
 -run:  echo Hello, world!
