@@ -1,7 +1,8 @@
 name:
 
 Deploy HTML Files to AppService - CMST385
-on:
+
+    on:
     push: 
     branches: 
         - main
