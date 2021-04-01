@@ -1,5 +1,7 @@
 name:
-Deploy HTML Files to AppService - CMST385
+
+Deploy HTML Files to AppService - CMST38
+
 
 on:
     push: 
