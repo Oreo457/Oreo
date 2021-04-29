@@ -80,13 +80,15 @@ h1 {
 }
 .album {
     display: inline-block;
-    transform: translate(-300px,100px);
+    transform: translate(-300px,100px;
 }
 .album2 {
     transform: translate(400px,-370px);
+    margin: 15px;
 }
 .album3 {
     transform: translate(700px,-905px);
+    margin: 15px;
 }
 .albumcover {
  display: inline-block;
