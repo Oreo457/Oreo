@@ -79,7 +79,6 @@ h1 {
 
 }
 .album {
-    display: inline-block;
     transform: translate(-300px,100px);
 }
 .album2 {
