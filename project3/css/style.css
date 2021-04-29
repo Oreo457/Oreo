@@ -80,16 +80,15 @@ h1 {
 }
 .album {
     transform: translate(-100px,300px);
-    margin: 20px;
-    padding: 20px;
+    margin: 15px;
 }
 .album2 {
     transform: translate(400px,-370px);
-    margin: 20px;
+    margin: 15px;
 }
 .album3 {
     transform: translate(700px,-905px);
-    margin: 20px;
+    margin: 15px;
 }
 .albumcover {
  display: inline-block;
@@ -101,7 +100,7 @@ h1 {
 }
 .albumname {
     font-size: 25px;
-transform: translateX(25px);
+transform: translateX(40px);
 }
 .albumtrack {
     margin-top: 5px;
