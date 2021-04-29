@@ -79,7 +79,7 @@ h1 {
 
 }
 .album {
-    transform: translate(-300px,150px);
+    transform: translate(-300px,100px);
 }
 .album2 {
     transform: translate(400px,-370px);
