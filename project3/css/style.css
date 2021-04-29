@@ -99,7 +99,7 @@ h1 {
 }
 .albumname {
     font-size: 25px;
-transform: translateX(27px);
+transform: translateX(50px);
 }
 .albumtrack {
     margin-top: 5px;
