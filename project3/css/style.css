@@ -81,6 +81,7 @@ h1 {
 .album {
     transform: translate(-100px,300px);
     margin: 20px;
+    padding: 20px;
 }
 .album2 {
     transform: translate(400px,-370px);
