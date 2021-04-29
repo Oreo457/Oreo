@@ -80,6 +80,7 @@ h1 {
 }
 .album {
     transform: translate(-200px,150px);
+    margin: 20px;
 }
 .album2 {
     transform: translate(400px,-370px);
@@ -99,7 +100,7 @@ h1 {
 }
 .albumname {
     font-size: 25px;
-transform: translateX(50px);
+transform: translateX(25px);
 }
 .albumtrack {
     margin-top: 5px;
