@@ -100,7 +100,7 @@ img {
     display: flex;
     align-items: stretch;
     justify-content:center;
-    margin-left: 100px;
+    margin-left:100px;
 }
 #contactimg img{
     height: 400px;
